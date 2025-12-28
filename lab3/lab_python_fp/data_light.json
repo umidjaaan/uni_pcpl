@@ -1,0 +1,52 @@
+[
+    {
+        "profession": "Программист Python",
+        "area": "Москва",
+        "salary": 150000
+    },
+    {
+        "profession": "Программист Java",
+        "area": "Санкт-Петербург",
+        "salary": 140000
+    },
+    {
+        "profession": "программист C++",
+        "area": "Новосибирск",
+        "salary": 130000
+    },
+    {
+        "profession": "Аналитик данных",
+        "area": "Москва",
+        "salary": 120000
+    },
+    {
+        "profession": "Программист JavaScript",
+        "area": "Казань",
+        "salary": 135000
+    },
+    {
+        "profession": "Дизайнер",
+        "area": "Москва",
+        "salary": 90000
+    },
+    {
+        "profession": "Программист PHP",
+        "area": "Екатеринбург",
+        "salary": 110000
+    },
+    {
+        "profession": "Менеджер проекта",
+        "area": "Москва",
+        "salary": 160000
+    },
+    {
+        "profession": "Программист Ruby",
+        "area": "Минск",
+        "salary": 125000
+    },
+    {
+        "profession": "Тестировщик",
+        "area": "Москва",
+        "salary": 95000
+    }
+]
